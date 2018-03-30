@@ -1,0 +1,5 @@
+access_token= "979483522745491457-9xtFsa0FEZyFT8dzu0LHylltzEK5TNt"
+access_token_secret= "Ih93NKY5gegcZaY2jZZu7t81ytwlOBuLZOz9RPyk4uujc"
+
+consumer_key= "BMExHcTrfOlCBOINx2ZNagMge"
+consumer_secret= "LOcBDVgLyFq8v5YkB55E5XkgztsPwvExctOOo1tHXHeLVyulPO"
