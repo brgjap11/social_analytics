@@ -1,5 +1,0 @@
-access_token= "2765185449-I0w2Ako682bYHlJCHBtkjyRvX6Qf7rta9CKZpPN"
-access_token_secret= "5QfoOGwHH3dOJrDSFJMRSTkKCUuLoLOyy6h3LGaMZRgM7"
-
-consumer_key= "5o1VzODj8wqhtvw8xGz2lnnri"
-consumer_secret= "tAwR17WGawaLPbtrOpZKFfWTRUV5IU2L5LmNQEVN2kVjkYIkbS"
